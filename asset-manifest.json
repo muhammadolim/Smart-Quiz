@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/static/js/main.48daf5f5.js",
-    "index.html": "/index.html",
-    "main.48daf5f5.js.map": "/static/js/main.48daf5f5.js.map"
+    "main.js": "/Smart-Quiz/static/js/main.db3f44f9.js",
+    "index.html": "/Smart-Quiz/index.html",
+    "main.db3f44f9.js.map": "/Smart-Quiz/static/js/main.db3f44f9.js.map"
   },
   "entrypoints": [
-    "static/js/main.48daf5f5.js"
+    "static/js/main.db3f44f9.js"
   ]
 }
