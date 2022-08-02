@@ -108,7 +108,7 @@ const Outro = ({
         <Container>
             <Text>Correct answers: {score}</Text>
             <Text>
-                Time: {minutes}:{seconds}
+                Time spent: {minutes}:{seconds}
             </Text>
             <StartButton onClick={restartHandler}>Restart</StartButton>
 
