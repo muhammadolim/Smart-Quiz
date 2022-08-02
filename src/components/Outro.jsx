@@ -50,6 +50,7 @@ const User = styled.p`
         white-space: nowrap;
         max-width: 75%;
         overflow: hidden;
+        line-height: 28px;
 
         @media (max-width: 415px) {
             max-width: 65%;
